@@ -1,0 +1,1 @@
+export {fakeFunction} from './fake-function'
