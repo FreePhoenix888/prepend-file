@@ -1,1 +1,1 @@
-export {fakeFunction} from './fake-function'
+export {prependFile,PrependFileParam} from './prepend-file'
